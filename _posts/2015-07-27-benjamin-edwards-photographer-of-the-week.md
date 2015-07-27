@@ -63,7 +63,7 @@ publisher:
   domain: photofocus.com
   url: 'http://photofocus.com'
   favicon: 'http://0.gravatar.com/blavatar/edf9c17298a95dbf02c80bc654849fde?s=16'
-dateModified: '2015-07-27T20:50:39.218Z'
+dateModified: '2015-07-27T23:03:13.363Z'
 sourcePath: _posts/2015-07-27-benjamin-edwards-photographer-of-the-week.md
 published: true
 _type: MediaObject
