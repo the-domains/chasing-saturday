@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jul 2015 19:39:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Workshops With Purpose-Humanitarian Photography-Travel Photography-Travel With Kids-Bolivia]]></title>
+            <description><![CDATA[<article><h1>Workshops With Purpose-Humanitarian Photography-Travel Photography-Travel With Kids-Bolivia</h1><p>In 2013, a group of world changing photographers embarked on a life changing adventure to Kijabe, Kenya ( blog post here). The photographers were the first group to take part in our co-led " Workshops With Purpose," a workshop designed to educate and equip them in the art of non-profit storytelling.</p><img src="http://www.benjaminedwardsphotography.com/blog/wp-content/uploads/2015/05/BoliviaHumanitarianphotography001.jpg"></article>]]></description>
+            <link>http://www.benjaminedwardsphotography.com/blog/givin-back/workshops-with-purpose-humanitarian-photography-travel-photography-travel-with-kids-bolivia/</link>
+            <guid isPermaLink="false">e76b97dd-1069-41db-a31d-17c69f94d96f</guid>
+            <pubDate>Mon, 27 Jul 2015 19:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
