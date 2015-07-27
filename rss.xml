@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chasing-saturday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jul 2015 19:39:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jul 2015 20:50:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chasing-saturday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the climb]]></title>
+            <description><![CDATA[<article><h1>the climb</h1><p>Climb this slippery log and win a fish. It'll be worth it. Content, content, content.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463dea56-b6fa-4f77-9d0b-9881688ecc84.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chasing-saturday/adventure/index.html</link>
+            <guid isPermaLink="false">e270a589-8be0-45e3-8e8f-dc975cc013ca</guid>
+            <pubDate>Mon, 27 Jul 2015 16:51:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Workshops With Purpose-Humanitarian Photography-Travel Photography-Travel With Kids-Bolivia]]></title>
             <description><![CDATA[<article><h1>Workshops With Purpose-Humanitarian Photography-Travel Photography-Travel With Kids-Bolivia</h1><p>In 2013, a group of world changing photographers embarked on a life changing adventure to Kijabe, Kenya ( blog post here). The photographers were the first group to take part in our co-led " Workshops With Purpose," a workshop designed to educate and equip them in the art of non-profit storytelling.</p><img src="http://www.benjaminedwardsphotography.com/blog/wp-content/uploads/2015/05/BoliviaHumanitarianphotography001.jpg"></article>]]></description>
