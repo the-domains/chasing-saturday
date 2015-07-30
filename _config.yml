@@ -22,9 +22,9 @@ color:
     - '#eb7265'
     - '#f0a173'
   brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose:
   - name: follow
     item: e270a589-8be0-45e3-8e8f-dc975cc013ca
