@@ -13,7 +13,7 @@ publisher:
   domain: e5fddafd-e50f-4945-baa3-a08ec8a36899
   url: null
   favicon: null
-dateModified: '2015-07-30T15:46:16.439Z'
+dateModified: '2015-07-30T19:05:07.691Z'
 sourcePath: _posts/2015-07-30-spelunking.md
 published: true
 url: spelunking/index.html
