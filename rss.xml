@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/chasing-saturday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 01:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2015 17:40:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chasing-saturday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing sunset post capability]]></title>
+            <description><![CDATA[<article><h1>Testing sunset post capability</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed404fde-471e-4d5a-8da6-57ef13f00c29.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chasing-saturday/testing-sunset-post-capability/index.html</link>
+            <guid isPermaLink="false">39420832-c636-48b2-8aaa-fd4cc2d53f04</guid>
+            <pubDate>Mon, 03 Aug 2015 17:40:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[As tall as the sky itself ]]></title>
             <description><![CDATA[<article><h1>As tall as the sky itself </h1><p>As tall as the sky itself</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e318fa1c-4946-4fd2-993b-50cda7c2ff52.jpg"></article>]]></description>
