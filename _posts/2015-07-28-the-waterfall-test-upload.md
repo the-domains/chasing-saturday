@@ -7,7 +7,7 @@ description: The waterfall (test upload)
 author: []
 datePublished: '2015-07-28T03:31:51.978Z'
 title: ''
-dateModified: '2015-07-28T16:31:16.390Z'
+dateModified: '2015-08-05T17:49:10.776Z'
 sourcePath: _posts/2015-07-28-the-waterfall-test-upload.md
 published: true
 authors: []
@@ -21,5 +21,6 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# The waterfall (test upload)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a96d34-7971-4fb3-906f-49b8b9660fd9.jpg)
+# The waterfall ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a96d34-7971-4fb3-906f-49b8b9660fd9.jpg)
+
+She went into the woods with a bag of clothes, an ND filter and a flash, what she caught will surprise you. Or it won't.
