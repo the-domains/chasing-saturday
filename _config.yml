@@ -1,4 +1,4 @@
-name: null
+name: Chasing Saturday
 favicon: null
 layout_spectrum: 0.71656
 typography_spectrum: 0.26338
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#6d6d6f'
-    - '#babbbf'
-    - '#eb7265'
-    - '#f0a173'
-  brandStrength: 0.125
+    - '#3d4c53'
+    - '#6fb7ba'
+    - '#dcd9cf'
+    - '#fefefe'
+    - '#151515'
+  brandStrength: 0.25
   lightness: 0.5
   saturation: 0.125
   rhythmicContrast: 0.25
