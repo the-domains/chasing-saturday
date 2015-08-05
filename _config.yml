@@ -22,8 +22,8 @@ color:
     - '#151515'
     - '#e39095'
   brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.1875
+  lightness: 0.6875
+  saturation: 0.5625
   rhythmicContrast: 0.25
 purpose:
   - name: follow
