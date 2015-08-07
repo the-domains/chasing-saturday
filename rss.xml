@@ -5,8 +5,13 @@
         <description><![CDATA[Chasing Saturday]]></description>
         <link>https://thegrid.ai/chasing-saturday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 18:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 19:04:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chasing-saturday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <guid isPermaLink="false">48eb8ba0-0aef-4318-b7db-7998b6a1a10d</guid>
+            <pubDate>Fri, 07 Aug 2015 19:03:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <guid isPermaLink="false">10d2289e-ec9a-4952-99e2-c84c1cd6645e</guid>
@@ -66,13 +71,6 @@
             <description><![CDATA[<article><h1>Benjamin Edwards: Photographer of the Week</h1><p>This photographer is a beautifully talented wedding photographer but his talent lies much deeper than that. Just a few years back, he and his wife gave up nearly everything they owned to utilize their photography storytelling talents to tell the stories and bring awareness to individuals or communities that may be less fortunate.</p><img src="http://photofocusblog.files.wordpress.com/2013/09/screen-shot-2013-09-11-at-4-47-26-pm.png?w=770&h=512"></article>]]></description>
             <link>http://photofocus.com/2014/03/10/photographer-of-the-week-benjamin-edwards-draft/</link>
             <guid isPermaLink="false">8a082b19-2cfa-4a3f-a530-deb162269c28</guid>
-            <pubDate>Mon, 27 Jul 2015 16:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the climb]]></title>
-            <description><![CDATA[<article><h1>the climb</h1><p>Climb this slippery log and win a fish. It'll be worth it. Content, content, content.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463dea56-b6fa-4f77-9d0b-9881688ecc84.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chasing-saturday/adventure/index.html</link>
-            <guid isPermaLink="false">e270a589-8be0-45e3-8e8f-dc975cc013ca</guid>
             <pubDate>Mon, 27 Jul 2015 16:51:58 GMT</pubDate>
         </item>
     </channel>
