@@ -1,31 +1,55 @@
-name: Chasing Saturday
 favicon: null
-layout_spectrum: 0.5677
-typography_spectrum: 0.4914
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-21516719-1
-  facebook: null
-  twitter: null
+name: Chasing Saturday
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+purpose:
+  - name: follow
+    url: null
+    item: e270a589-8be0-45e3-8e8f-dc975cc013ca
 color:
+  saturation: 0.375
+  brandStrength: 0.375
+  lightness: 0.7956989
   brandColors:
     - '#ead3a8'
     - '#d23640'
     - '#6d6568'
     - '#151515'
     - '#e39095'
-  brandStrength: 0.375
-  lightness: 0.875
-  saturation: 0.375
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: e270a589-8be0-45e3-8e8f-dc975cc013ca
-    url: null
+typography_spectrum: 0.7168459
+layout_spectrum: 0.5677
+analytics:
+  twitter: null
+  google: UA-21516719-1
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
