@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-15T17:23:35.243Z'
+datePublished: '2015-09-15T17:38:31.896Z'
 title: ''
-dateModified: '2015-09-15T17:23:29.248Z'
+dateModified: '2015-09-15T17:38:29.005Z'
 sourcePath: _posts/2015-08-04-travel-salad.md
 published: true
 tags:
