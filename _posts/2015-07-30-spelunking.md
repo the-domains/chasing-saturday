@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: Spelunking
 author: []
-datePublished: '2015-09-15T19:53:02.339Z'
+datePublished: '2015-09-15T20:19:38.313Z'
 title: ''
-dateModified: '2015-09-15T19:52:51.465Z'
+dateModified: '2015-09-15T20:19:29.449Z'
 sourcePath: _posts/2015-07-30-spelunking.md
 published: true
 authors: []
@@ -21,6 +21,10 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-## Spelunking ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c50641a-5d20-481a-95f1-5861a15f2852.jpg)
+## 
 
-Show the kids where the light is and they'll always find it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8340d66e-29b5-42bc-8cbb-404e6397894a.JPG)
+
+# Spelunking
+
+Show the kids the light and they'll always find it.
