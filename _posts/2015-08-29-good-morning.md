@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: Good morning
 author: []
-datePublished: '2015-09-15T19:28:18.339Z'
+datePublished: '2015-09-15T19:31:57.818Z'
 title: ''
-dateModified: '2015-09-15T19:28:06.157Z'
+dateModified: '2015-09-15T19:31:49.686Z'
 sourcePath: _posts/2015-08-29-good-morning.md
 published: true
 authors: []
