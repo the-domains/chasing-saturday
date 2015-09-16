@@ -5,7 +5,7 @@
         <description><![CDATA[Chasing Saturday]]></description>
         <link>https://thegrid.ai/chasing-saturday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 16:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 17:09:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chasing-saturday/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Never Leave Home... Without Home.]]></title>
@@ -69,13 +69,6 @@
             <link>https://thegrid.ai/chasing-saturday/fe289105-0813-47ce-a96d-2a026fdbfc81/index.html</link>
             <guid isPermaLink="false">fe289105-0813-47ce-a96d-2a026fdbfc81</guid>
             <pubDate>Tue, 15 Sep 2015 19:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Waterfall ]]></title>
-            <description><![CDATA[<article><h1>The Waterfall </h1><p>The waterfall (test upload)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a96d34-7971-4fb3-906f-49b8b9660fd9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chasing-saturday/the-waterfall-test-upload/index.html</link>
-            <guid isPermaLink="false">159e0909-b935-4dbb-8eb7-81b4405126dd</guid>
-            <pubDate>Tue, 15 Sep 2015 17:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
