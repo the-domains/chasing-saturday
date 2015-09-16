@@ -3,20 +3,22 @@ isBasedOnUrl: 'content://e5fddafd-e50f-4945-baa3-a08ec8a36899'
 inLanguage: null
 starred: false
 keywords: []
-description: Spelunking
+description: ''
 author: []
-datePublished: '2015-09-16T17:26:35.595Z'
+datePublished: '2015-09-16T17:27:04.965Z'
 title: ''
-dateModified: '2015-09-16T17:26:24.847Z'
+dateModified: '2015-09-16T17:26:53.426Z'
 sourcePath: _posts/2015-07-30-spelunking.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: e5fddafd-e50f-4945-baa3-a08ec8a36899
   domain: e5fddafd-e50f-4945-baa3-a08ec8a36899
   url: null
   favicon: null
-url: spelunking/index.html
+url: d2fd9fb1-f4f6-4a7e-abb1-9dd17fb1c273/index.html
 _type: Article
 _context: 'http://schema.org'
 
