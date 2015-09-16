@@ -5,9 +5,9 @@ starred: true
 keywords: []
 description: "How often we leave and wonder, \"oh, did we forget the...\" Then we realize, we need only pull over and open the door, and it's there. Beautiful."
 author: []
-datePublished: '2015-09-16T16:47:21.505Z'
+datePublished: '2015-09-16T16:51:50.029Z'
 title: ''
-dateModified: '2015-09-16T16:47:20.415Z'
+dateModified: '2015-09-16T16:51:36.490Z'
 sourcePath: _posts/2015-09-08-dont-leave-home-without-home.md
 published: true
 tags:
@@ -23,7 +23,10 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Don't leave home without home
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d5e39ad-9afe-4794-ba2a-f9f5c0c1b35e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b03528-b5a1-482e-b015-5a0e2b0dd834.jpg)
 
-Many times have we thought, "did we forget the...." Then we realize, we need only pull over, open the door, and there it is. Beautiful.
+# 
+
+# Never Leave Home... Without Home.
+
+Many times we've left wondering, "did we forget the..." Only to remember we need only pull over, open the door and there it is.
