@@ -46,9 +46,9 @@ color:
     - '#5f5d5a'
     - '#beb5a6'
   brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.0625
-  rhythmicContrast: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose:
   - name: follow
     url: null
