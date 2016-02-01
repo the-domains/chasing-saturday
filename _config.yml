@@ -1,6 +1,6 @@
 name: Chasing Saturday
 favicon: null
-layout_spectrum: 0.07748
+layout_spectrum: 0.13179
 typography_spectrum: 0.36515
 collections:
   - filter:
@@ -45,10 +45,10 @@ color:
     - '#212121'
     - '#7d7d7d'
     - '#b8b8b8'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     url: null
